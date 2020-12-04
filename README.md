@@ -1,6 +1,10 @@
-## Hey there!
+![Banner](banner.jpeg)
 
-This profile is currently not very interesting, but perhaps in the future there will be some cool stuff on here.
+## Hey there! I'm a techno-wizard with a focus on knowledge-sharing & quality.
+
+
+I'm a Netherlands-based web developer with a love for the full stack: from micro-frontend to the cloud, you can ask me anything about the latest technology and best practices.
+
 
 ## Reach out to me
 
